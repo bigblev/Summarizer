@@ -31,5 +31,6 @@ Use this process whenever James requests a new Moby-Dick chapter summary.
 
 ## Batch workflow
 - For multiple requested chapters, create one Markdown file per chapter.
-- Package the files into a single zip archive for download or email.
-- If emailing, request approval of the final email draft before sending.
+- Place the generated Markdown files in this Google Drive folder: https://drive.google.com/drive/folders/13crOYVRaOkPJZcCfyn-cpwOiOpu9lPfD
+- If a single downloadable bundle is requested, also package the files into a zip archive.
+- Do not email the files unless James explicitly asks for email delivery; if emailing, request approval of the final email draft before sending.
