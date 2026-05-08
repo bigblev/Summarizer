@@ -26,7 +26,7 @@ Use this process whenever James requests a new Moby-Dick chapter summary.
 - Save each result as a new Markdown file named by chapter number and title.
 - Use plain Markdown with bold section labels, no # headings inside the chapter summary file.
 - Keep CHARACTERS and LOCATIONS as plain hard-line-break lists, not bullets.
-- Use one memorable verbatim quote in KEY QUOTES.
+- Include at least three memorable verbatim quotes from the chapter in KEY QUOTES, each on its own line.
 - Keep prose sections concise, present-tense, and cinematic.
 
 ## Batch workflow
